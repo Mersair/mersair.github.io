@@ -2,8 +2,8 @@
 
 Target | Suitable? | Reason
 ------- | --- | -------------------
-Public      | YES | Finalized website build
-Academia    | YES |
-Sample Work | YES |
-Employer    | YES |
+Public      | YES |
+Academia    | NO | Contains modified public code
+Sample Work | NO | Contains modified public code
+Employer    | NO | Contains modified public code
 Peer Share  | YES |
